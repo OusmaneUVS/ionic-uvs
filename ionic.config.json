@@ -1,0 +1,7 @@
+{
+  "name": "code-hub",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
